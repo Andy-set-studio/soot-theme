@@ -1,10 +1,27 @@
 {
   "name": "soot-theme",
-  "version": "1.0.0",
+  "displayName": "Soot Theme",
+  "publisher": "hankchizljaw",
+  "icon": "images/icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Light Theme",
+    "Soot",
+    "Greyscale",
+    "Grayscale",
+    "Monochrome",
+    "Black and white",
+    "Accessible Theme"
+  ],
+  "version": "0.1.0",
   "description": "A VS Code theme that's all nice and greyscale",
-  "main": "index.js",
+  "main": "themes/soot-color-theme.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "vsce publish"
   },
   "repository": {
     "type": "git",
