@@ -1,0 +1,33 @@
+{
+  "name": "soot-theme",
+  "version": "1.0.0",
+  "description": "A VS Code theme that's all nice and greyscale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hankchizljaw/soot-theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hankchizljaw/soot-theme/issues"
+  },
+  "homepage": "https://github.com/hankchizljaw/soot-theme#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Soot Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soot-color-theme.json"
+      }
+    ]
+  },
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "activationEvents": []
+}

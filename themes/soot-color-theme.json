@@ -1,0 +1,84 @@
+{
+  "name": "Soot theme",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#141414",
+    "editorCursor.foreground": "#f3f3f3",
+    "editor.foreground": "#dedede",
+    "activityBar.background": "#030303",
+    "sideBar.background": "#030303",
+    "statusBar.background": "#030303",
+    "statusBar.noFolderBackground": "#030303",
+    "editorLineNumber.foreground": "#efefef"
+  },
+  "tokenColors": [
+    {
+      "name": "Comment",
+      "scope": "comment",
+      "settings": {
+        "foreground": "#818181",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Functions",
+      "scope": ["entity.name.function.js"],
+      "settings": {
+        "foreground": "#c5c5c5"
+      }
+    },
+    {
+      "name": "Variables",
+      "scope": ["variable.other.readwrite.js"],
+      "settings": {
+        "foreground": "#b4b4b4"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": [
+        "storage.type.js",
+        "keyword.control.trycatch.js",
+        "keyword.control.conditional.js",
+        "keyword.control.flow.js",
+        "keyword.operator.new.js",
+        "keyword.control.module.js",
+        "support.type.object.module.js",
+        "constant.language.boolean.true.js",
+        "entity.other.attribute-name.html"
+      ],
+      "settings": {
+        "foreground": "#9a9a9a"
+      }
+    },
+    {
+      "name": "HTML and CSS Programming",
+      "scope": [
+        "entity.name.tag.structure.any.html",
+        "entity.name.tag.inline.any.html",
+        "entity.name.tag.script.html",
+        "entity.name.tag.block.any.html",
+        "support.type.property-name.css",
+        "variable.css",
+        "variable.argument.css"
+      ],
+      "settings": {
+        "foreground": "#b4b4b4"
+      }
+    },
+    {
+      "name": "CSS Programming",
+      "scope": [
+        "entity.other.attribute-name.pseudo-class.css",
+        "entity.name.tag.css",
+        "entity.other.attribute-name.class.css",
+        "entity.other.attribute-name.css",
+        "entity.other.attribute-name.pseudo-element.css",
+        "entity.name.tag.wildcard.css"
+      ],
+      "settings": {
+        "foreground": "#9a9a9a"
+      }
+    }
+  ]
+}
