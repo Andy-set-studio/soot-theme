@@ -2,9 +2,19 @@
 
 A minimal VS Code theme that’s all nice and greyscale.
 
-![Soot logo where the O's are eyes](https://assets.codepen.io/174183/soot.png)
+[Get started](https://marketplace.visualstudio.com/items?itemName=hankchizljaw.soot-theme)
+
+[![Soot logo where the O's are eyes](https://assets.codepen.io/174183/soot.png)](https://marketplace.visualstudio.com/items?itemName=hankchizljaw.soot-theme)
 
 ## Screenshots 
+
+![CSS code in VS Code](https://assets.codepen.io/174183/soot-1.jpg?width=2000&height=2658&quality=70&format=auto)
+
+![JS code in VS Code](https://assets.codepen.io/174183/soot-2.jpg?width=2000&height=2658&quality=70&format=auto)
+
+![HTML code in VS Code](https://assets.codepen.io/174183/soot-3.jpg?width=2000&height=2658&quality=70&format=auto)
+
+[yes, yes, square brackets read here](https://piccalil.li/cube-css/grouping/)
 
 ## Contributing
 
