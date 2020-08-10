@@ -6,18 +6,8 @@
   "categories": [
     "Themes"
   ],
-  "keywords": [
-    "Theme",
-    "Dark Theme",
-    "Light Theme",
-    "Soot",
-    "Greyscale",
-    "Grayscale",
-    "Monochrome",
-    "Black and white",
-    "Accessible Theme"
-  ],
-  "version": "0.1.0",
+  "keywords": [],
+  "version": "0.1.1",
   "description": "A VS Code theme that's all nice and greyscale",
   "main": "themes/soot-color-theme.json",
   "scripts": {
@@ -27,7 +17,6 @@
     "type": "git",
     "url": "git+https://github.com/hankchizljaw/soot-theme.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
