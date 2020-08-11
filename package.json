@@ -2,12 +2,12 @@
   "name": "soot-theme",
   "displayName": "Soot Theme",
   "publisher": "hankchizljaw",
+  "version": "0.1.2",
   "icon": "images/icon.png",
   "categories": [
     "Themes"
   ],
   "keywords": [],
-  "version": "0.1.1",
   "description": "A VS Code theme that's all nice and greyscale",
   "main": "themes/soot-color-theme.json",
   "scripts": {
