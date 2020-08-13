@@ -5,7 +5,7 @@
     "editor.background": "#141414",
     "editorCursor.foreground": "#f3f3f3",
     "editor.foreground": "#dedede",
-    "editor.selectionBackground": "#dedede",
+    "editor.selectionBackground": "#232323",
     "editor.selectionForeground": "#030303",
     "editorLineNumber.foreground": "#efefef",
     "activityBar.background": "#030303",
