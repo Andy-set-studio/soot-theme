@@ -1,0 +1,103 @@
+{
+  "name": "Soot theme",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#f3f3f3",
+    "editorCursor.foreground": "#ccccccc",
+    "editor.foreground": "#141414",
+    "editor.selectionBackground": "#030303",
+    "editor.selectionForeground": "#f3f3f3",
+    "editorLineNumber.foreground": "#252525",
+    "activityBar.background": "#030303",
+    "sideBar.background": "#efefef",
+    "statusBar.background": "#efefef",
+    "statusBar.noFolderBackground": "#efefef",
+    "terminal.background": "#efefef",
+    "terminal.foreground": "#141414",
+    "terminal.ansiBlue": "#808080",
+    "terminal.ansiBrightBlue": "#808080",
+    "terminal.ansiBrightCyan": "#939393",
+    "terminal.ansiBrightGreen": "#585858",
+    "terminal.ansiBrightMagenta": "#585858",
+    "terminal.ansiBrightRed": "#454545",
+    "terminal.ansiBrightYellow": "#808080",
+    "terminal.ansiCyan": "#939393",
+    "terminal.ansiGreen": "#585858",
+    "terminal.ansiMagenta": "#585858",
+    "terminal.ansiRed": "#454545",
+    "terminal.ansiYellow": "#808080",
+    "terminal.selectionBackground": "#030303",
+    "terminalCursor.background": "#030303",
+    "terminalCursor.foreground": "#f3f3f3"
+  },
+  "tokenColors": [
+    {
+      "name": "Comment",
+      "scope": "comment",
+      "settings": {
+        "foreground": "#939393",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Functions",
+      "scope": ["entity.name.function.js"],
+      "settings": {
+        "foreground": "#454545"
+      }
+    },
+    {
+      "name": "Variables",
+      "scope": ["variable.other.readwrite.js"],
+      "settings": {
+        "foreground": "#454545"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": [
+        "storage.type.js",
+        "keyword.control.trycatch.js",
+        "keyword.control.conditional.js",
+        "keyword.control.flow.js",
+        "keyword.operator.new.js",
+        "keyword.control.module.js",
+        "support.type.object.module.js",
+        "constant.language.boolean.true.js",
+        "entity.other.attribute-name.html"
+      ],
+      "settings": {
+        "foreground": "#313131"
+      }
+    },
+    {
+      "name": "HTML and CSS Programming",
+      "scope": [
+        "entity.name.tag.structure.any.html",
+        "entity.name.tag.inline.any.html",
+        "entity.name.tag.script.html",
+        "entity.name.tag.block.any.html",
+        "support.type.property-name.css",
+        "variable.css",
+        "variable.argument.css"
+      ],
+      "settings": {
+        "foreground": "#313131"
+      }
+    },
+    {
+      "name": "CSS Programming",
+      "scope": [
+        "entity.other.attribute-name.pseudo-class.css",
+        "entity.name.tag.css",
+        "entity.other.attribute-name.class.css",
+        "entity.other.attribute-name.css",
+        "entity.other.attribute-name.pseudo-element.css",
+        "entity.name.tag.wildcard.css"
+      ],
+      "settings": {
+        "foreground": "#585858"
+      }
+    }
+  ]
+}
